@@ -65,4 +65,3 @@ Since my school projects are stored in private repositories, here is a technical
 <div align="center">
   <img src="https://github.com/VillalbaEnzo/VillalbaEnzo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-```
