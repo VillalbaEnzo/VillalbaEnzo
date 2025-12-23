@@ -37,26 +37,26 @@ Since my school projects are stored in private repositories, here is a technical
 
 | Project | Description & Key Skills |
 | :--- | :--- |
-| **My_Top** _(Current)_ | **Process Monitoring:** A recode of the `top` command using the **Ncurses** library. [cite_start]Parses `/proc` files to display real-time CPU/RAM usage and manages process signals. [cite: 664, 678, 814] |
-| **My_Sudo** | **Privilege Escalation:** Re-implementation of `sudo`. [cite_start]Handles user authentication via shadow passwords, setuid permissions, and executes commands as another user. [cite: 1121, 1155, 1150] |
-| **My_Ls** | **File System:** Recode of the `ls` command. [cite_start]Handles flags (`-alRdt`), directory parsing (`opendir`, `readdir`), and file stat retrieval. [cite: 2, 22, 65] |
-| **My_Printf** | **Variadic Functions:** Reproduction of the C library `printf`. [cite_start]Manages format specifiers, flags, and variable argument lists (`va_list`). [cite: 241, 251] |
+| **My_Top** _(Current)_ | **Process Monitoring:** A recode of the `top` command using the **Ncurses** library. Parses `/proc` files to display real-time CPU/RAM usage and manages process signals. |
+| **My_Sudo** | **Privilege Escalation:** Re-implementation of `sudo`. Handles user authentication via shadow passwords, setuid permissions, and executes commands as another user. |
+| **My_Ls** | **File System:** Recode of the `ls` command. Handles flags (`-alRdt`), directory parsing (`opendir`, `readdir`), and file stat retrieval. |
+| **My_Printf** | **Variadic Functions:** Reproduction of the C library `printf`. Manages format specifiers, flags, and variable argument lists (`va_list`). |
 
 ### 🎮 Graphical Projects (CSFML/C)
 
 | Project | Description & Key Skills |
 | :--- | :--- |
-| **My_Radar** | **Simulation & Quadtree:** A 2D air traffic control simulation. [cite_start]Manages aircraft collision detection and control tower areas efficiently for high entity counts. [cite: 489, 502, 510] |
-| **My_Hunter** | **Event Handling:** A Duck Hunt-style game. [cite_start]Implements sprite animation, mouse input management, and game loops using the CSFML library. [cite: 300, 312] |
+| **My_Radar** | **Simulation & Quadtree:** A 2D air traffic control simulation. Manages aircraft collision detection and control tower areas efficiently for high entity counts. |
+| **My_Hunter** | **Event Handling:** A Duck Hunt-style game. Implements sprite animation, mouse input management, and game loops using the CSFML library. |
 
 ### 🧮 Mathematical Algorithms (Python)
 
 | Project | Description & Key Skills |
 | :--- | :--- |
-| **103Cipher** | **Cryptography:** Message encryption/decryption using matrix multiplication and inversion. [cite_start]Handles complex matrix operations. [cite: 1038, 1059, 1064] |
-| **102Architect** | [cite_start]**Linear Algebra:** Geometric transformations (translation, rotation, scaling, reflection) applied to coordinates using homogeneous matrices. [cite: 381, 396] |
-| **101Pong** | [cite_start]**3D Physics:** Simulation of a ball's velocity vector and coordinates in a 3D space to calculate paddle impact angles. [cite: 161, 175] |
-| **104Neutrinos** | [cite_start]**Statistics:** Real-time calculation of arithmetic/harmonic means and standard deviation for large datasets. [cite: 100, 115] |
+| **103Cipher** | **Cryptography:** Message encryption/decryption using matrix multiplication and inversion. Handles complex matrix operations. |
+| **102Architect** | **Linear Algebra:** Geometric transformations (translation, rotation, scaling, reflection) applied to coordinates using homogeneous matrices. |
+| **101Pong** | **3D Physics:** Simulation of a ball's velocity vector and coordinates in a 3D space to calculate paddle impact angles. |
+| **104Neutrinos** | **Statistics:** Real-time calculation of arithmetic/harmonic means and standard deviation for large datasets. |
 
 ---
 
@@ -65,3 +65,4 @@ Since my school projects are stored in private repositories, here is a technical
 <div align="center">
   <img src="https://github.com/VillalbaEnzo/VillalbaEnzo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+```
