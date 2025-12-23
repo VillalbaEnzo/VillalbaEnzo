@@ -53,11 +53,10 @@ Since my school projects are stored in private repositories, here is a technical
 
 | Project | Description & Key Skills |
 | :--- | :--- |
+| **104Neutrinos** | **Statistics:** Real-time calculation of arithmetic/harmonic means and standard deviation for large datasets. |
 | **103Cipher** | **Cryptography:** Message encryption/decryption using matrix multiplication and inversion. Handles complex matrix operations. |
 | **102Architect** | **Linear Algebra:** Geometric transformations (translation, rotation, scaling, reflection) applied to coordinates using homogeneous matrices. |
 | **101Pong** | **3D Physics:** Simulation of a ball's velocity vector and coordinates in a 3D space to calculate paddle impact angles. |
-| **104Neutrinos** | **Statistics:** Real-time calculation of arithmetic/harmonic means and standard deviation for large datasets. |
-
 ---
 
 ### 🐍 Contribution Activity
