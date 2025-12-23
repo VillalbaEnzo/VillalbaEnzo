@@ -1,24 +1,24 @@
 <div align="center">
-  <h1>Salut, je suis GoldenRiconV1 👋</h1>
-  <p>Étudiant à <b>Epitech</b> | Passionné par le développement bas niveau et le web</p>
+  <h1>Hi there, I'm GoldenRiconV1 👋</h1>
+  <p>Student at <b>Epitech</b> | Low-level & Web Developer</p>
 </div>
 
 ---
 
-### 🚀 À propos de moi
+### 🚀 About Me
 
-Actuellement en cursus à Epitech, je me spécialise dans le développement logiciel rigoureux (C/Python) tout en gardant un pied dans le développement web. J'aime comprendre comment les choses fonctionnent "under the hood".
+Currently studying at Epitech, I specialize in rigorous software development (C/Python) while keeping a strong foothold in web technologies. I enjoy understanding how things work "under the hood."
 
-- 🔭 Je travaille actuellement sur : **[Nom de ton projet Epitech actuel, ex: Minishell, My_RPG]**
-- 🌱 J'apprends : **L'architecture système et les algorithmes complexes**
-- 💬 Demandez-moi à propos de : **C, Linux, PHP**
-- 📫 Me contacter : **[Ton Email Pro]**
+- 🔭 I’m currently working on: **Epitech Core Projects**
+- 🌱 I’m currently learning: **System Architecture & Algorithms**
+- 💬 Ask me about: **C, Linux, PHP, Python**
+- 📫 Reach me at: **enzo.villalba@epitech.eu**
 
 ---
 
-### 🛠️ Ma Stack Technique
+### 🛠️ My Tech Stack
 
-Voici les technologies que je maîtrise et que j'utilise dans mes projets :
+Here are the technologies I work with:
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,9 +33,17 @@ Voici les technologies que je maîtrise et que j'utilise dans mes projets :
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenRiconV1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenRiconV1&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GoldenRiconV1&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenRiconV1&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/GoldenRiconV1/GoldenRiconV1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
