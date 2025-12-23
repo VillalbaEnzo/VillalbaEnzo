@@ -36,8 +36,8 @@ Here are the technologies I work with:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenRiconV1&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenRiconV1&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VillalbaEnzo&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillalbaEnzo&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
 </div>
 
 ---
@@ -45,5 +45,5 @@ Here are the technologies I work with:
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/GoldenRiconV1/GoldenRiconV1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/VillalbaEnzo/VillalbaEnzo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
