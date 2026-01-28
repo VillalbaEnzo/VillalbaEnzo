@@ -37,7 +37,7 @@ Since my school projects are stored in private repositories, here is a technical
 
 | Project | Description & Key Skills |
 | :--- | :--- |
-| **My_Top** _(Current)_ | **Process Monitoring:** A recode of the `top` command using the **Ncurses** library. Parses `/proc` files to display real-time CPU/RAM usage and manages process signals. |
+| **My_Top** | **Process Monitoring:** A recode of the `top` command using the **Ncurses** library. Parses `/proc` files to display real-time CPU/RAM usage and manages process signals. |
 | **My_Sudo** | **Privilege Escalation:** Re-implementation of `sudo`. Handles user authentication via shadow passwords, setuid permissions, and executes commands as another user. |
 | **My_Ls** | **File System:** Recode of the `ls` command. Handles flags (`-alRdt`), directory parsing (`opendir`, `readdir`), and file stat retrieval. |
 | **My_Printf** | **Variadic Functions:** Reproduction of the C library `printf`. Manages format specifiers, flags, and variable argument lists (`va_list`). |
@@ -53,6 +53,7 @@ Since my school projects are stored in private repositories, here is a technical
 
 | Project | Description & Key Skills |
 | :--- | :--- |
+| **105Demography** | **Statistics** : Demographic prediction via linear least squares regression and correlation analysis. |
 | **104Neutrinos** | **Statistics:** Real-time calculation of arithmetic/harmonic means and standard deviation for large datasets. |
 | **103Cipher** | **Cryptography:** Message encryption/decryption using matrix multiplication and inversion. Handles complex matrix operations. |
 | **102Architect** | **Linear Algebra:** Geometric transformations (translation, rotation, scaling, reflection) applied to coordinates using homogeneous matrices. |
