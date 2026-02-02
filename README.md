@@ -18,7 +18,7 @@ I am a software engineering student passionate about understanding low-level mec
 
 ### 🛠️ Technical Stack
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-777BB4?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
