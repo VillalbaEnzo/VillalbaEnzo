@@ -10,7 +10,7 @@
 
 I am a software engineering student passionate about understanding low-level mechanisms. My curriculum at Epitech focuses on rebuilding core Unix system tools to master memory management, system calls, and algorithm efficiency.
 
-- 🔭 **Currently working on:** `My_Top` (A complete recode of the Unix system monitor in C using Ncurses).
+- 🔭 **Currently working on:** `MiniShell` (A custom Unix shell written in C, supporting basic command parsing and execution).
 - 🛠 **Focus:** C Programming, Linux Architecture, Mathematical Algorithms.
 - 📫 How to reach me: **enzo.villalba@epitech.eu**
 
